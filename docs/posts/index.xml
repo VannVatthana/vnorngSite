@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>IGD301: Vannvatthana Norng</title>
-    <link>https://VannVatthana.github.io/vnorngSite/</link>
-    <description>Recent content on IGD301: Vannvatthana Norng</description>
+    <title>Posts on IGD301: Vannvatthana Norng</title>
+    <link>https://VannVatthana.github.io/vnorngSite/posts/</link>
+    <description>Recent content in Posts on IGD301: Vannvatthana Norng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2023 </copyright>
-    <lastBuildDate>Sun, 03 Dec 2023 16:46:59 +0100</lastBuildDate><atom:link href="https://VannVatthana.github.io/vnorngSite/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Dec 2023 16:46:59 +0100</lastBuildDate><atom:link href="https://VannVatthana.github.io/vnorngSite/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Class Homework 2 : CAVE System</title>
       <link>https://VannVatthana.github.io/vnorngSite/posts/classhomework2/</link>
