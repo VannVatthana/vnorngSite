@@ -7,7 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2023 </copyright>
-    <lastBuildDate>Sun, 03 Dec 2023 16:46:59 +0100</lastBuildDate><atom:link href="https://VannVatthana.github.io/vnorngSite/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Dec 2023 14:34:02 +0100</lastBuildDate><atom:link href="https://VannVatthana.github.io/vnorngSite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class homework 3: Selection techniques</title>
+      <link>https://VannVatthana.github.io/vnorngSite/posts/classhomework3/</link>
+      <pubDate>Sun, 17 Dec 2023 14:34:02 +0100</pubDate>
+      
+      <guid>https://VannVatthana.github.io/vnorngSite/posts/classhomework3/</guid>
+      <description>The Flexible Pointer #The Flexible Pointer overcomes the limitations of conventional pointing methods by adopting a virtual flexible pointer that can bend and curve around obstacles.
+Reference: A. Olwal, S. Feiner - The Flexible Pointer: An Interaction Technique for Selection in Augmented and Virtual Reality
+LPTPT : Locked Dwell Time-based Point and Tap Gesture #Reference: S.Bhowmick, A.Panigrahi, P.Borah - Investigating the Effectiveness of Locked Dwell Time-based Point and Tap Gesture for Selection of Nail-sized Object in Dense Virtual Environment</description>
+      
+    </item>
+    
     <item>
       <title>Class Homework 2 : CAVE System</title>
       <link>https://VannVatthana.github.io/vnorngSite/posts/classhomework2/</link>
