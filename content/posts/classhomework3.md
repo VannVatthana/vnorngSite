@@ -1,7 +1,7 @@
 ---
 title:  'Class homework 3: Selection techniques'
 date: 2023-12-17T14:34:02+01:00
-draft: true
+draft: false
 ---
 
 ## The Flexible Pointer
