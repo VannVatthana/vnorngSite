@@ -7,7 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2023 </copyright>
-    <lastBuildDate>Sun, 17 Dec 2023 14:34:02 +0100</lastBuildDate><atom:link href="https://VannVatthana.github.io/vnorngSite/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Dec 2023 16:14:46 +0100</lastBuildDate><atom:link href="https://VannVatthana.github.io/vnorngSite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class Homework 4: Selecting Objects in a Supermarket</title>
+      <link>https://VannVatthana.github.io/vnorngSite/posts/classhomework4/</link>
+      <pubDate>Sun, 17 Dec 2023 16:14:46 +0100</pubDate>
+      
+      <guid>https://VannVatthana.github.io/vnorngSite/posts/classhomework4/</guid>
+      <description>Grabbing and Teleportation #Goal: to make the shopping experience in visual supermarket to be intuitive and accessible.
+How it works: Users use the teleportation technique to move to differents locations of the supermarket. Once arriving in the proximity to wanted items, they can physically reach out and grab those items using VR controllers.
+Evaluation:
+The success of this technique is evaluated based on speed and easiness of the navigation by teleportation, and the precision of the grabbing interaction with objects.</description>
+      
+    </item>
+    
     <item>
       <title>Class homework 3: Selection techniques</title>
       <link>https://VannVatthana.github.io/vnorngSite/posts/classhomework3/</link>
