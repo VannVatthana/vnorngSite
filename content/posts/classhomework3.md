@@ -5,15 +5,18 @@ draft: true
 ---
 
 ## The Flexible Pointer
-    The Flexible Pointer overcomes the limitations of conventional pointing methods by adopting a virtual flexible pointer that can bend and curve around obstacles.  
+The Flexible Pointer overcomes the limitations of conventional pointing methods by adopting a virtual flexible pointer that can bend and curve around obstacles.  
 
 [comment]: <link: https://uist.hosting.acm.org/uist2005/images/poster_examples/pointer.pdf>
 
-Reference : [A. Olwal, S. Feiner : The Flexible Pointer: An Interaction Technique for  Selection in Augmented and Virtual Reality](https://uist.hosting.acm.org/uist2005/images/poster_examples/pointer.pdf)
-## LPTPT
+**Reference:** [A. Olwal, S. Feiner - The Flexible Pointer: An Interaction Technique for  Selection in Augmented and Virtual Reality](https://uist.hosting.acm.org/uist2005/images/poster_examples/pointer.pdf)
+
+## LPTPT : Locked Dwell Time-based Point and Tap Gesture
 
 [comment]: <link: https://dl.acm.org/doi/pdf/10.1145/3385959.3422701>
 
-## AMAZE
+**Reference:** [S.Bhowmick, A.Panigrahi, P.Borah - Investigating the Effectiveness of Locked Dwell Time-based Point and Tap Gesture for Selection of Nail-sized Object in Dense Virtual Environment](https://dl.acm.org/doi/pdf/10.1145/3385959.3422701)
 
-[comment]: <link: https://pdf.sciencedirectassets.com/271537/1-s2.0-S0141938223X00055/1-s2.0-S0141938223001725/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEC0aCXVzLWVhc3QtMSJGMEQCIE5pV9lLlPcvclK1FrB5mhZJNO6ld8PCsYrLG3hsZI2cAiB6ycKppsbiUjooMFgdSRC6XuHU377FjYWkdmeGNCJTTiq7BQim%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAUaDDA1OTAwMzU0Njg2NSIMqo8XnuiXsiSyO30HKo8FYYkWCLB4bvDFxEy9xjmlqfycZbtv8AxAjE%2FhZ0q2tRoHdwmZKhsBxZkZvFC0i90M9UeR8RAMW7gztJfBMSOl7vjJQeyOXX82gw2cSpnT3ZySBXJLk8aZO6fyKby8FATJ8pGRLYDPp9zpos15B8UnZ9vr%2FIux%2Fjad43kSTr1STVsSvSkIMJiHDeZ38WbSSTYO%2FIRkPdKimBb0sSsaQ%2BK2bLVyv22gwmpEhhbGFWsOt7N1pYsF6L4duieMx2JN1gJ3MCPRHLNLIxcJnj1VD87dSnwiwIro7h6MXZoQKLB5GQ9VvWOFZ03RD6wMKe016ljf5G3W6jisPbGHt3OOxDNkCbD%2BHqWipzElH3lpqHccqn1DHTk3ETcPqnh%2FaKTUk1KITy1DnOiYHIDPb%2FJzHN7gvSU8uvOXgBUvShotUoawL6RH%2Bb4wwqMLkprkbe%2FSQEw40yvm93olDrSBvHW4NBPVPXhVA2evQ2SwE6zRgecJo006SewGCqmknqL3QZskTSXJ2JHF9PNLYw%2ByJoIuUeHo7gEB9oU4GBJI8PKV%2Fu%2Bq2IKH9wzTwC6xBw9sP6ZFWn0xsgjMyh%2Fl4MrHefbYD1LoSPFd%2BWmvuedr1j%2Bn1RpF9IlQvixyWN4C1%2BBf9TLsWuFkKvYq2zq9lf8axJ7Rr2TO%2Bf9%2B7Zv5aNGxuPabt33SvROhHL0PczsftutHW504uZHZXmays%2B4SfyVqfa%2FK7wB%2FfFYyvztvve%2FHAZ4MkIIMsSwR218D6Xfa6kt5mGaaf1UAaEeAyh1WbHLWDUt8yp4eUqmvxpTtKsDnw0SHM9yJgV8IQo9urtaeM0TZBY%2BoysuNqhVHfOUcRG7pnpMbEbug451DftCOuIWzJWzVBZxwwTC32furBjqyAeF%2FH%2F5R2lX88iN%2F4zZ5SDl6UGIB9vUmVr%2FigXBWFDhYg8ne8kO98e3iM8dtitXQmjz%2FcErTbuqV0yAeUeZZ3MKQIujVx2XK6tU6uLxyfddDLM3FugLjAbCUp3yWEPQa4TSxdHjog%2FGTyau8UyYc%2BcyrLKtuHIuQCMBbJioqo%2BfL%2BoT6SMAyZeGBgQcY19dPw%2BPKVTrkEEo%2Fg85EU8YIG3fbnDQhuDwEqX%2FrUKOWhNwv0PY%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231217T133738Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYRONN6QXP%2F20231217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=45f1abe4d3a5aebf55ff1575e6a45e2b20fc43cfe63696b33c34f775578ab8d7&hash=5fecfebccef8efe1f57b095622b4fad676531697f3ac8a6aed2d9913644a33f8&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0141938223001725&tid=spdf-03dbbb0f-d019-4739-b1f0-6f6ffadf7785&sid=3f301633250d564ae42b16539d0f9892c4d9gxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=1c125a5150015c070457&rr=836f8fd6bbc3412d&cc=fr&kca=eyJrZXkiOiJERjZTRmJQS2dsMS9TcjFJWU0ybTFZaFpnY00xRnF4TjhtZXh3VkNHRWFLdDFhaU1Ea1hFYVdCSW9qRmFQUzFnbFE0VGtHQ1RtKzRxTEdleGhvU1dsQktTTG01YVV6bDg0anE5VTJiNFVJWUdLU0JBTTN1d28rZ3U3QjNLWUFPVTVjTEFmSEZ2WGFZK1pxMEhEQ1d0NnB6aHRjM1E2Y2N3ZG1lWk82aUpXZ2E2MkNkV1J3PT0iLCJpdiI6IjRhN2RmYTNiNmU2N2FiOTI5NzY3NTkyNjA1NjgzNDRlIn0=_1702820266221>
+## AMAZE : A Multi-finger Approach to Zoom in Dense Environments
+
+**Reference:** [Design and evaluation of AMAZE: A multi-finger approach to select small and distant objects in dense virtual environments](https://www.sciencedirect.com/science/article/pii/S0141938223001725?ref=pdf_download&fr=RR-2&rr=836ffe752b4279c1)
