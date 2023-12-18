@@ -3,3 +3,4 @@ languageCode = 'en-us'
 title = 'IGD301: Vannvatthana Norng'
 theme = 'blowfish'
 publishDir  = 'docs'
+canonifyURLs = true
