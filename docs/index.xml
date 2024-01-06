@@ -6,7 +6,7 @@
     <description>Recent content on IGD301: Vannvatthana Norng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2023 </copyright>
+    <copyright>© 2024 </copyright>
     <lastBuildDate>Sun, 17 Dec 2023 16:14:46 +0100</lastBuildDate><atom:link href="https://VannVatthana.github.io/vnorngSite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Class Homework 4: Selecting Objects in a Supermarket</title>
@@ -24,12 +24,11 @@ The success of this technique is evaluated based on speed and easiness of the na
     <item>
       <title>Class homework 3: Selection techniques</title>
       <link>https://VannVatthana.github.io/vnorngSite/posts/classhomework3/</link>
-      <pubDate>Sun, 17 Dec 2023 14:34:02 +0100</pubDate>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
       
       <guid>https://VannVatthana.github.io/vnorngSite/posts/classhomework3/</guid>
-      <description>The Flexible Pointer #The Flexible Pointer overcomes the limitations of conventional pointing methods by adopting a virtual flexible pointer that can bend and curve around obstacles.
-Reference: A. Olwal, S. Feiner - The Flexible Pointer: An Interaction Technique for Selection in Augmented and Virtual Reality
-LPTPT : Locked Dwell Time-based Point and Tap Gesture #Reference: S.Bhowmick, A.Panigrahi, P.Borah - Investigating the Effectiveness of Locked Dwell Time-based Point and Tap Gesture for Selection of Nail-sized Object in Dense Virtual Environment</description>
+      <description>The Flexible Pointer #The Flexible Pointer overcomes the limitations of conventional pointing methods by adopting a virtual flexible pointer that can bend and curve around obstacles. Therefore, it allows users to point objects that are partially or fully occluded by other objects.
+Flexible Pointer bended around an objectReach: Infinite \ Users can point at objects anywhere in the virtual environment using Flexible Pointer. This is because the virtual pointer can be bent or flexed around objects, so there is no limit to how far it can reach.</description>
       
     </item>
     

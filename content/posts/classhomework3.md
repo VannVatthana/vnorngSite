@@ -24,8 +24,14 @@ The user can continuously refine their selection by moving the virtual pointer c
 **Reference:** [A. Olwal, S. Feiner (1998) - The Flexible Pointer: An Interaction Technique for  Selection in Augmented and Virtual Reality](https://uist.hosting.acm.org/uist2005/images/poster_examples/pointer.pdf)
 
 ## LPTPT : Locked Dwell Time-based Point and Tap Gesture
+LPTPT is a natural selection technique that combines pointing and tapping gestures using a locked dwell time. It is a versatile technique that can be used to select objects, navigate through menus, and interact with virtual environments.
 
--**Reach:** Short \\
+The LPTPT technique typically involves the following steps:
+1. The user points at an object in the virtual environment. 
+2. The user holds their finger or hand on the object for a specified dwell time.
+3. If the dwell time is met, a tap gesture is registered and the object is selected.
+
+- **Reach:** Short \\
 The user must be relatively close to the object they want to select. This is because the user needs to hold their finger or hand on the object for a specified dwell time.
 
 - **Cardinality:** Single \\
@@ -41,10 +47,9 @@ The user must complete the entire selection gesture before the object is selecte
 AMAZE is a multi-finger continuous zoom-based technique for selecting small and distant objects in dense virtual environments. It combines a pinch gesture with pointing to provide accurate and efficient object selection.
 
 The AMAZE technique typically involves the following steps:
-
-The user performs a pinch gesture with their fingers to zoom in on the virtual environment.
-As the user zooms in, the hit area of the pointer increases, allowing the user to select distant and small objects more easily.
-Once the user has zoomed in enough to bring the target object within their reach, they can use a pointing gesture to select the object.
+1. The user performs a pinch gesture with their fingers to zoom in on the  virtual environment. 
+2. As the user zooms in, the hit area of the pointer increases, allowing the user to select distant and small objects more easily.<br>
+3. Once the user has zoomed in enough to bring the target object within their reach, they can use a pointing gesture to select the object.
 
 - **Reach:** Short-medium \\
 AMAZE user needs to be relatively close to the object they want to select, but not as close as with a purely pointing-based technique. This is because the pinch gesture allows the user to bring the object closer without having to physically move their hand.
