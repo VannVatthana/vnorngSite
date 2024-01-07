@@ -28,7 +28,7 @@ The success of this technique is evaluated based on speed and easiness of the na
       
       <guid>https://VannVatthana.github.io/vnorngSite/posts/classhomework3/</guid>
       <description>The Flexible Pointer #The Flexible Pointer overcomes the limitations of conventional pointing methods by adopting a virtual flexible pointer that can bend and curve around obstacles. Therefore, it allows users to point objects that are partially or fully occluded by other objects.
-Flexible Pointer bended around an objectReach: Infinite \ Users can point at objects anywhere in the virtual environment using Flexible Pointer. This is because the virtual pointer can be bent or flexed around objects, so there is no limit to how far it can reach.</description>
+Flexible Pointer bended around an objectReach: Infinite Users can point at objects anywhere in the virtual environment using Flexible Pointer. This is because the virtual pointer can be bent or flexed around objects, so there is no limit to how far it can reach.</description>
       
     </item>
     
@@ -52,6 +52,27 @@ Differences between CAVE and HMD devices #CAVE : A room-sized VR system that us
       <description>Here are two different scenarios that could potentially lead to collisions or physical harm between the VR user and other people/objects and how you can overcome them.
 Scenario 1 #The VR user is playing a game that requires them to move around in their real-world environment. They may not be paying attention to their surroundings and could bump into furniture, walls, or other people.
 Possible solutions #Use a VR play area: Set up a designated VR play area that is free of obstacles.</description>
+      
+    </item>
+    
+    <item>
+      <title>Lab Homework 1 : Set Up Blog</title>
+      <link>https://VannVatthana.github.io/vnorngSite/posts/labhomework1/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://VannVatthana.github.io/vnorngSite/posts/labhomework1/</guid>
+      <description>Welcome to my blog! My name is Vannvatthana NORNG, I am currently a 3rd year student at Télécom Paris. In this blog, I will cover about the progress of my virtual reality course IGD301: Human-Computer Interaction for Mixed Reality. I hope you enjoy it!</description>
+      
+    </item>
+    
+    <item>
+      <title>Lab Homework 2 : Set up Unity</title>
+      <link>https://VannVatthana.github.io/vnorngSite/posts/labhomework2/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://VannVatthana.github.io/vnorngSite/posts/labhomework2/</guid>
+      <description>In this post, I am going to talk about how I set up unity for my upcoming labs and projects.
+Unity Setup #First and foremost, download and install UnityHub from Unity&amp;rsquo;s website: https://unity.com/download Choose the one that is suitable for your operating system. After installing the application, it will look like this: This is where you can create the projects you want to work on, but before that, you need to install at least one Unity version first.</description>
       
     </item>
     
