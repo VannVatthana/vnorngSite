@@ -6,7 +6,9 @@ draft: false
 
 ## What is CAVE System?
 **CAVE** (Cave Automatic Virtual Environment) is a room-sized VR system that uses projectors to display images on all of the walls, floor, ceiling. This creates a completely immersive experience for the users so that they feel as if they are inside the virtual world.
+![CAVE](/images/classhomework2/cave_system.webp "Display in CAVE system")
 
+{{<youtube M7qqnP5pTVM>}}
 ## Differences between CAVE and HMD devices
 
 1. CAVE :

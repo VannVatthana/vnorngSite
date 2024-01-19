@@ -35,6 +35,8 @@ The LPTPT technique typically involves the following steps:
 2. The user holds their finger or hand on the object for a specified dwell time.
 3. If the dwell time is met, a tap gesture is registered and the object is selected.
 
+![dense environment](/images/classhomework3/lptdt.png "Dense virtual environment for nail-size object selection")
+
 - **Reach:** Short
 
 The user must be relatively close to the object they want to select. This is because the user needs to hold their finger or hand on the object for a specified dwell time.
@@ -57,6 +59,8 @@ The AMAZE technique typically involves the following steps:
 2. As the user zooms in, the hit area of the pointer increases, allowing the user to select distant and small objects more easily.<br>
 3. Once the user has zoomed in enough to bring the target object within their reach, they can use a pointing gesture to select the object.
 
+
+![AMAZE](/images/classhomework3/amaze.png "(From a to d) The user using pinch gesture to bring the target near and then select the target object")
 - **Reach:** Short-medium 
 
 AMAZE user needs to be relatively close to the object they want to select, but not as close as with a purely pointing-based technique. This is because the pinch gesture allows the user to bring the object closer without having to physically move their hand.
