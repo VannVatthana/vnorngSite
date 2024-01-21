@@ -44,6 +44,18 @@ Flexible Pointer bended around an objectReach: Infinite Users can point at obje
     </item>
     
     <item>
+      <title>Lab Homework 4 : Roll-A-Ball in VR</title>
+      <link>https://VannVatthana.github.io/vnorngSite/posts/labhomework4/</link>
+      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://VannVatthana.github.io/vnorngSite/posts/labhomework4/</guid>
+      <description>In Lab Homework 3, we made our first project Roll-A-Ball in Unity. Now, we are converting this project into a version that we can use in VR headsets.
+You can find this project file on my Github https://github.com/VannVatthana/roll_a_ball_vr.
+Roll-a-Ball VR #Setup SideQuest for apk installation </description>
+      
+    </item>
+    
+    <item>
       <title>Class Homework 2 : CAVE System</title>
       <link>https://VannVatthana.github.io/vnorngSite/posts/classhomework2/</link>
       <pubDate>Sun, 03 Dec 2023 16:46:59 +0100</pubDate>
@@ -60,6 +72,18 @@ Flexible Pointer bended around an objectReach: Infinite Users can point at obje
       
       <guid>https://VannVatthana.github.io/vnorngSite/posts/classhomework1/</guid>
       <description>In order to give the fully immersive experience of a virtual world, the VR headsets are designed so that users are completely isolated from the surrounding environment. This can cause users to harm themselves if there are a lot objects or people around them. Here are two different scenarios that could potentially lead to collisions or physical harm between the VR user and other people/objects and how you can overcome them.</description>
+      
+    </item>
+    
+    <item>
+      <title>Lab Homework 3 : Unity Roll-A-Ball</title>
+      <link>https://VannVatthana.github.io/vnorngSite/posts/labhomework3/</link>
+      <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://VannVatthana.github.io/vnorngSite/posts/labhomework3/</guid>
+      <description>In this lab, we are going to build my first Unity project Roll-A-Ball. The step-by-step tutorial of this project can be found at Unity&amp;rsquo;s official website, make sure to choose the right version according to the one that you installed.
+You can also find my project file from https://github.com/VannVatthana/roll_a_ball_v2020
+Roll-A-Ball project #Assume that an empty 3D project is created (please look at Lab Homework2), There are 4 types of objects that are needed to be created for this project:</description>
       
     </item>
     
