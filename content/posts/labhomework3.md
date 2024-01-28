@@ -50,4 +50,3 @@ To build an apk for any platform, go to **File > Build Setting**, then choose **
 ![Build](/images/labhomework3/buildplatform.png)
 In case there are more than one scene in the project, make sure to check on the one to build, and uncheck the rest. In my case, I have only one scene, so there is nothing to worry about. Finally, click on **Build** or **Build and Run**.
 ![Scenechoice](/images/labhomework3/choosescene.png)
-

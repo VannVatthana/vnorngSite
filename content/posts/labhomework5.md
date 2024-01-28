@@ -16,8 +16,3 @@ headset. So, I would like to propose a new selection technique, which I would ca
 
 When the arrow hit the target object, the player has two options: they can either bring the object back to hand (Option 1 from the illustration) or teleport to the position of the their arrow (Option 2). In case that the arrow does not fall on any object, the user can still use the teleport option to go wherever the arrow is. Depending on how good the user is at shooting, they can select even the occluded objects that are hiding from their view. Hence, it can solve the occlusion problem at some level.
 
-- **Reach : Semi-infinite.** Users can select an object only as far as how far they can shoot an arrow 
-
-- **Cardinality : Single.** Each arrow shot can select one object at a time.
-- **Progressive Refinement : None**
-

@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2024 </copyright>
-    <lastBuildDate>Mon, 08 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://VannVatthana.github.io/vnorngSite/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://VannVatthana.github.io/vnorngSite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class Homework 5 : Evaluation of the Selection Technique</title>
+      <link>https://VannVatthana.github.io/vnorngSite/posts/classhomework5/</link>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://VannVatthana.github.io/vnorngSite/posts/classhomework5/</guid>
+      <description>In the Lab Homework 6, I talked about how I implemented Sloppy Robin to select the items at the supermarket. Here, I am going to talk about the evaluation of the technique. The task is to use this technique to select 20 supermarket items as fast as possible. I need 3 people (myself included) to evaluate on some criteria as follow:
+Average time and Accuracy per session #Well, everyone seems to take quite some time to finish the task with not really high accuracy.</description>
+      
+    </item>
+    
     <item>
       <title>Lab Homework 5 : Selection Pitch</title>
       <link>https://VannVatthana.github.io/vnorngSite/posts/labhomework5/</link>
@@ -49,9 +60,9 @@ Flexible Pointer bended around an objectReach: Infinite Users can point at obje
       <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
       
       <guid>https://VannVatthana.github.io/vnorngSite/posts/labhomework4/</guid>
-      <description>In Lab Homework 3, we made our first project Roll-A-Ball in Unity. Now, we are converting this project into a version that we can use in VR headsets.
+      <description>In Lab Homework 3, I made my first project Roll-A-Ball in Unity. This time, I will convert that project into a version that we can play in VR headsets.
 You can find this project file on my Github https://github.com/VannVatthana/roll_a_ball_vr.
-Roll-a-Ball VR #Setup SideQuest for apk installation </description>
+Roll-a-Ball VR #Set up the project #As usual, start by create a new 3D project (have a look at Lab Homework2 in case you forget). Since Oculus headset runs with Android, we need to build the project for Android device as well.</description>
       
     </item>
     
