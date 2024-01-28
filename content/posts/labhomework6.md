@@ -4,7 +4,11 @@ date : 2024-01-22
 draft : false
 ---
 
-This is the final project of the course IGD301. The scenario for this project is as follow: the user is in a supermarket scene where they have to select objects with a selection technique. Here, I am going to talk about the implementation of the selection technique that I call **Sloppy Robin**. So how did I proceeded with this technique?
+This is the final project of the course IGD301. The scenario for this project is as follow: the user is in a supermarket scene where they have to select objects with a selection technique. Here, I am going to talk about the implementation of the selection technique that I call **Sloppy Robin**. 
+
+You can find my implementation here : [https://github.com/VannVatthana/SloppyRobinVR](https://github.com/VannVatthana/SloppyRobinVR).
+
+The already built APK file is also available here: [sloppy_final.apk](/files/sloppy_final.apk)
 
 ### Interaction
 The concept of **Sloppy Robin** is quite simple, there is one bow with the arrow attached to the string in the scene. The user pull the trigger of the left controller to grab the body of the bow and aim, and the right controller to pull the string. When the right controller's trigger is released, the arrow is shot. When it hit the target object, the object is selected, and the arrow comes back to its original position (attached to bow string). Since the arrow takes into account the physics components (Gravity and Kinematics), the user cannot aim directly at the wanted target, they might need to aim a little higher, especially when the target object is far. 
@@ -203,8 +207,6 @@ void MoveAround()  // Move around
 }
 
 ```
-
-You can find my implementation here : [https://github.com/VannVatthana/SloppyRobinVR](https://github.com/VannVatthana/SloppyRobinVR).
 
 Here is what the final result looks like:
 <!--show vdo-->

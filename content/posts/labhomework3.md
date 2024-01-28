@@ -44,6 +44,7 @@ Finally, create a ball : **GameObject -> 3D Object -> Sphere**, then create a sc
 
 ### Test run
 At this stage, the project is nearly completed. I need to test play the project to find out if there are any bugs that cause the game to not work properly. In my case, there were no bugs occured as I followed directly the tutorial, so the test run was successful. The result should be similar to this.
+{{<youtube vN9asLRLVtk>}}
 
 ### Build
 To build an apk for any platform, go to **File > Build Setting**, then choose **PC, Mac & Linux Standalone**. Keep the default settings of the build (**Target Platform** -> **Windows** and **Architecture** -> **x86.64**).
