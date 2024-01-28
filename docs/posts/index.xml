@@ -15,7 +15,7 @@
       
       <guid>https://VannVatthana.github.io/vnorngSite/posts/classhomework5/</guid>
       <description>In the Lab Homework 6, I talked about how I implemented Sloppy Robin to select the items at the supermarket. Here, I am going to talk about the evaluation of the technique. The task is to use this technique to select 20 supermarket items as fast as possible. I need 3 people (myself included) to evaluate on some criteria as follow:
-Average time and Accuracy per session #Well, everyone seems to take quite some time to finish the task with not really high accuracy.</description>
+Average time and Accuracy per session #Well, everyone seems to take quite some time to finish the task with not really high accuracy (about 6mn).</description>
       
     </item>
     
@@ -25,8 +25,9 @@ Average time and Accuracy per session #Well, everyone seems to take quite some 
       <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://VannVatthana.github.io/vnorngSite/posts/labhomework6/</guid>
-      <description>This is the final project of the course IGD301. The scenario for this project is as follow: the user is in a supermarket scene where they have to select objects with a selection technique. Here, I am going to talk about the implementation of the selection technique that I call Sloppy Robin. So how did I proceeded with this technique?
-Interaction #The concept of Sloppy Robin is quite simple, there is one bow with the arrow attached to the string in the scene.</description>
+      <description>This is the final project of the course IGD301. The scenario for this project is as follow: the user is in a supermarket scene where they have to select objects with a selection technique. Here, I am going to talk about the implementation of the selection technique that I call Sloppy Robin.
+You can find my implementation here : https://github.com/VannVatthana/SloppyRobinVR.
+The already built APK file is also available here: sloppy_final.apk</description>
       
     </item>
     
