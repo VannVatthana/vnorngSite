@@ -20,6 +20,17 @@ Average time and Accuracy per session #Well, everyone seems to take quite some 
     </item>
     
     <item>
+      <title>Lab Homework 6 : Final Project</title>
+      <link>https://VannVatthana.github.io/vnorngSite/posts/labhomework6/</link>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://VannVatthana.github.io/vnorngSite/posts/labhomework6/</guid>
+      <description>This is the final project of the course IGD301. The scenario for this project is as follow: the user is in a supermarket scene where they have to select objects with a selection technique. Here, I am going to talk about the implementation of the selection technique that I call Sloppy Robin. So how did I proceeded with this technique?
+Interaction #The concept of Sloppy Robin is quite simple, there is one bow with the arrow attached to the string in the scene.</description>
+      
+    </item>
+    
+    <item>
       <title>Lab Homework 5 : Selection Pitch</title>
       <link>https://VannVatthana.github.io/vnorngSite/posts/labhomework5/</link>
       <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
