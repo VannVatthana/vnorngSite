@@ -1,10 +1,14 @@
 ---
-title : 'Lab Homework 2 : Set up Unity'
+title : 'Lab Homework 1&2 : Set up Blog and Unity'
 date : 2023-11-20
 draft : false
 ---
 
-In this post, I am going to talk about how I set up unity for my upcoming labs and projects.
+Welcome to my blog! My name is Vannvatthana NORNG, I am currently a 3rd year student at Télécom Paris. In this blog, I will cover about the progress of my virtual reality course IGD301: Human-Computer Interaction for Mixed Reality. I hope you enjoy it! 
+
+![VR Grabbing](/images/labhomework1/vrcasque.jpg)
+
+Now, I am going to talk about how I set up unity for my upcoming labs and projects.
 
 ## Unity Setup
 First and foremost, download and install UnityHub from Unity's website: [https://unity.com/download](https://unity.com/download)
