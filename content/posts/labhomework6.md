@@ -13,11 +13,8 @@ The already built APK file is also available here: [sloppy_final.apk](/files/slo
 ### Interaction
 The concept of **Sloppy Robin** is quite simple, there is one bow with the arrow attached to the string in the scene. The user pull the trigger of the left controller to grab the body of the bow and aim, and the right controller to pull the string. When the right controller's trigger is released, the arrow is shot. When it hit the target object, the object is selected, and the arrow comes back to its original position (attached to bow string). Since the arrow takes into account the physics components (Gravity and Kinematics), the user cannot aim directly at the wanted target, they might need to aim a little higher, especially when the target object is far. 
 
-### Bow and Arrow assets
-I need a bow and an arrow prefabs for this project. It is possible to use a long stick for the bow gameobject and another one for the arrow, but I think that the visual appeal might add to the experience of Sloppy Robin. Therefore I get found the assets from this [github repository](https://github.com/Fist-Full-of-Shrimp/Bow-and-Arrow-Assets), which is great since it already has the necessary components for scripting.
-
 ### Bow Grab
-The given **Bow** prefab has 4 children: **PlankBow** (3D model of the prefab), **Start** (rest position of the string), **End** (fully pulled position of the string), **Notch** (where the arrow is put on). 
+The **Bow** has 4 children: **PlankBow** (Visual), **Start** (rest position of the string), **End** (fully pulled position of the string), **Notch** (where the arrow is put on). 
 To be able to grab the bow, I need to put a collider on where the bow is needed to be grabbed. 
 ![Bow Collider](/images/labhomework6/bow_collider.png "Collider Box of the Bow object")
 I created a script called **BowGrab.cs** for the left controller to grab and move around the bow. The code is very simple, it only needs to detect whether the controller collides with the bow, and pick it up when the trigger is pressed, and when trigger is released, the bow is floating in one place without moving.

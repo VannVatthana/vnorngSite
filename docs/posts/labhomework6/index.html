@@ -101,7 +101,7 @@ The already built APK file is also available here: sloppy_final.apk"/>
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "1165"
+    "wordCount": "1088"
   }]
   </script>
 
@@ -329,7 +329,7 @@ The already built APK file is also available here: sloppy_final.apk"/>
 <div style="cursor: default;" class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2024-01-22 00:00:00 &#43;0000 UTC">January 22, 2024</time><span class="px-2 text-primary-500">&middot;</span><span>1165 words</span>
+  <time datetime="2024-01-22 00:00:00 &#43;0000 UTC">January 22, 2024</time><span class="px-2 text-primary-500">&middot;</span><span>1088 words</span>
   
 
   
@@ -402,18 +402,6 @@ The already built APK file is also available here: sloppy_final.apk"/>
     
 </h3>
 <p>The concept of <strong>Sloppy Robin</strong> is quite simple, there is one bow with the arrow attached to the string in the scene. The user pull the trigger of the left controller to grab the body of the bow and aim, and the right controller to pull the string. When the right controller&rsquo;s trigger is released, the arrow is shot. When it hit the target object, the object is selected, and the arrow comes back to its original position (attached to bow string). Since the arrow takes into account the physics components (Gravity and Kinematics), the user cannot aim directly at the wanted target, they might need to aim a little higher, especially when the target object is far.</p>
-<h3 class="relative group">Bow and Arrow assets 
-    <div id="bow-and-arrow-assets" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#bow-and-arrow-assets" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<p>I need a bow and an arrow prefabs for this project. It is possible to use a long stick for the bow gameobject and another one for the arrow, but I think that the visual appeal might add to the experience of Sloppy Robin. Therefore I get found the assets from this <a href="https://github.com/Fist-Full-of-Shrimp/Bow-and-Arrow-Assets"   target="_blank">
-    github repository</a>, which is great since it already has the necessary components for scripting.</p>
 <h3 class="relative group">Bow Grab 
     <div id="bow-grab" class="anchor"></div>
     
@@ -424,7 +412,7 @@ The already built APK file is also available here: sloppy_final.apk"/>
     </span>        
     
 </h3>
-<p>The given <strong>Bow</strong> prefab has 4 children: <strong>PlankBow</strong> (3D model of the prefab), <strong>Start</strong> (rest position of the string), <strong>End</strong> (fully pulled position of the string), <strong>Notch</strong> (where the arrow is put on).
+<p>The <strong>Bow</strong> has 4 children: <strong>PlankBow</strong> (Visual), <strong>Start</strong> (rest position of the string), <strong>End</strong> (fully pulled position of the string), <strong>Notch</strong> (where the arrow is put on).
 To be able to grab the bow, I need to put a collider on where the bow is needed to be grabbed.
 
 
