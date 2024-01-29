@@ -19,7 +19,8 @@ Click **Install** on the version of your choice.
 
 If you want to install the older versions, feel free to go to 
 [https://unity.com/releases/editor/archive](https://unity.com/releases/editor/archive). In my case, I installed the version 2020.3.34f1 . 
-{{<youtube vN9asLRLVtk>}}
+
+
 ## Create a new project
 Now that a Unity version is installed, go back to **Projects** and click on **New Project**, then choose the right template, right directory, and rename your project. For this case, I choose 3D template for my Unity 3D project. 
 ![Settings](/images/labhomework2/hub_newproject.png)

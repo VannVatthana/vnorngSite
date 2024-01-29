@@ -10,7 +10,7 @@ In the Lab Homework 6, I talked about how I implemented Sloppy Robin to select t
 Here is the full data for each person
 | Measure      |  User 1: ME    | User 2   | User 3 | Average |
 | ------------ | -------------  | --------------| ------------- | --------------- |
-| Session Time |  321s (5mn21s) | 418s (6mn38s) | 376s (6mn11s) | 371.7s (~6mn11s)|
+| Session Time |  321s (5mn21s) | 418s (6mn58s) | 376s (6mn11s) | 371.7s (~6mn11s)|
 | Workload     |7.8             |7.5            |6|7.1|
 | Presence     |7|6|6.5|6.5|
 | Enjoyment    |10|9.5|9.3|9.6|
